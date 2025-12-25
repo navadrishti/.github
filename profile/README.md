@@ -1,4 +1,3 @@
-# नवdrishti
 ### An AI-Powered Operating System for Social Impact
 
 **Website:** https://navadrishti.in  
