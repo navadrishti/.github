@@ -1,13 +1,13 @@
 # नवdrishti
 ### An AI-Powered Operating System for Social Impact
 
-🌍 **Website:** https://navadrishti.in  
-📍 **Based in:** India  
-✉️ **Contact:** contactus.navdrishti@gmail.com  
+**Website:** https://navadrishti.in  
+**Based in:** India  
+**Contact:** contactus.navdrishti@gmail.com  
 
 ---
 
-## 🚀 What is Navadrishti?
+## What is Navadrishti?
 
 Navadrishti is **not a volunteering platform**.  
 It is a **full-stack operating system for the social impact ecosystem** — built to modernize how NGOs, corporates, volunteers, and communities **plan, execute, measure, and scale impact**.
@@ -25,7 +25,7 @@ Today, social impact work is fragmented across:
 
 ---
 
-## 🎯 The Problem We Are Solving
+## The Problem We Are Solving
 
 India spends **₹25,000+ crore annually on CSR**, yet:
 
@@ -35,11 +35,11 @@ India spends **₹25,000+ crore annually on CSR**, yet:
 - Impact data is scattered, unverifiable, and underutilized
 - Most “platforms” stop at volunteering or donations
 
-👉 **The sector lacks an operating system.**
+**The sector lacks an operating system.**
 
 ---
 
-## 💡 Our Solution
+## Our Solution
 
 Navadrishti acts as a **central nervous system** for social impact.
 
@@ -53,9 +53,9 @@ We enable stakeholders to:
 
 ---
 
-## 🧠 Core Pillars of Navadrishti
+## Core Pillars of Navadrishti
 
-### 1️⃣ AI-Powered CSR Agent (Corporate Impact Engine)
+### AI-Powered CSR Agent (Corporate Impact Engine)
 An intelligent assistant that helps companies:
 - Design CSR campaigns aligned with SDGs
 - Structure budgets and timelines
@@ -67,7 +67,7 @@ An intelligent assistant that helps companies:
 
 ---
 
-### 2️⃣ NGO Operations & Project Management System
+### NGO Operations & Project Management System
 A unified workspace for NGOs to:
 - Plan and manage projects
 - Assign tasks to volunteers and professionals
@@ -79,7 +79,7 @@ A unified workspace for NGOs to:
 
 ---
 
-### 3️⃣ Skill-Based Marketplace for Social Good
+### Skill-Based Marketplace for Social Good
 A marketplace where:
 - NGOs request skilled help (tech, design, marketing, legal, ops)
 - NGOs offer verified services to individuals and companies
@@ -89,7 +89,7 @@ A marketplace where:
 
 ---
 
-### 4️⃣ Verified Impact Profiles (LinkedIn for Social Impact)
+### Verified Impact Profiles (LinkedIn for Social Impact)
 Every individual gets a verifiable **Impact Profile** that tracks:
 - Volunteering hours
 - Skills contributed
@@ -101,7 +101,7 @@ Every individual gets a verifiable **Impact Profile** that tracks:
 
 ---
 
-### 5️⃣ Community Feed & Impact Storytelling
+### Community Feed & Impact Storytelling
 A social feed focused on:
 - NGO project updates
 - CSR campaign highlights
@@ -113,7 +113,7 @@ A social feed focused on:
 
 ---
 
-### 6️⃣ Marketplace for Sustainability
+### Marketplace for Sustainability
 A built-in marketplace enabling:
 - NGO product sales
 - Community fundraising
@@ -124,23 +124,22 @@ A built-in marketplace enabling:
 
 ---
 
-## 🛠️ Current Platform Capabilities
+## Current Platform Capabilities
 
 Navadrishti already supports:
 
-- 👤 Multi-role users (Individuals, NGOs, Companies)
-- 🔐 Strong identity verification & badges
-- 📰 Social feed with posts, images, hashtags, engagement
-- 🙋‍♂️ NGO service requests (volunteers & professionals)
-- 🧑‍💼 NGO service offerings (hire NGOs like a marketplace)
-- 🛒 Community marketplace with payments
-- 📊 Admin dashboards & moderation
-- 💳 Secure payments & order tracking
-- 📱 Fully responsive, mobile-ready UI
+- Multi-role users (Individuals, NGOs, Companies)
+- Strong identity verification & badges
+- Social feed with posts, images, hashtags, engagement
+- NGO service requests (volunteers & professionals)
+- NGO service offerings (hire NGOs like a marketplace)
+- Community marketplace with payments
+- Secure payments & order tracking
+- Fully responsive, mobile-ready UI
 
 ---
 
-## 🧩 What Makes Us Different
+## What Makes Us Different
 
 | Feature | Navadrishti | Typical Platforms |
 |------|-----------|----------------|
@@ -157,7 +156,7 @@ We solve the entire lifecycle.**
 
 ---
 
-## 🧭 Who Navadrishti Is For
+## Who Navadrishti Is For
 
 - **NGOs** → to run operations professionally
 - **Corporates & CSR Teams** → to plan, track, and report impact
@@ -167,7 +166,7 @@ We solve the entire lifecycle.**
 
 ---
 
-## 🔮 Our Vision
+## Our Vision
 
 To become **India’s default infrastructure for social impact** —  
 where every project, rupee, hour, and outcome is **traceable, transparent, and meaningful**.
@@ -180,7 +179,7 @@ Long term, Navadrishti aims to:
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
 We welcome:
 - Contributors
@@ -189,8 +188,8 @@ We welcome:
 - Early adopters
 - Researchers & ecosystem builders
 
-📩 Reach out at: **contactus.navdrishti@gmail.com**  
-🌐 Visit: **https://navadrishti.in**
+Reach out at: **contactus.navdrishti@gmail.com**  
+Visit: **https://navadrishti.in**
 
 ---
 
