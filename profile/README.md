@@ -187,8 +187,7 @@ We welcome:
 - Early adopters
 - Researchers & ecosystem builders
 
-Reach out at: **contactus.navdrishti@gmail.com**  
-Visit: **https://navadrishti.in**
+Reach out at: **contactus.navdrishti@gmail.com**
 
 ---
 
