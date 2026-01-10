@@ -32,7 +32,7 @@ We follow a controlled Git workflow:
 - `fix/*` – Bug fixes
 - `docs/*` – Documentation changes
 
-⚠️ **Direct pushes to `main` are not allowed.**
+**Direct pushes to `main` are not allowed.**
 
 ---
 
@@ -107,7 +107,7 @@ Include:
 - **UI proof:** Screenshots/videos (for UI changes)
 - **Links:** Linked issues (if applicable)
 
-✅ All PRs are reviewed by core maintainers.
+All PRs are reviewed by core maintainers.
 
 ### Reviews and merging
 - **Review required:** PRs must be reviewed before merging
@@ -116,7 +116,7 @@ Include:
   - `develop`
   - `main` (production)
 
-⚡ Production merges are handled by the core team.
+Production merges are handled by the core team.
 
 ---
 
@@ -162,7 +162,7 @@ We expect:
 - **Constructive feedback**
 - **Professional behavior**
 
-🚫 Harassment, misuse of access, or unethical behavior will result in removal.
+Harassment, misuse of access, or unethical behavior will result in removal.
 
 ---
 
