@@ -12,7 +12,7 @@ If you discover a security vulnerability, please report it responsibly using the
 - Share exploit details on social media or forums
 
 ### Please DO
-- Email us at: **contactus.navdrishti@gmail.com**
+- Email us at: **connect@navadrishti.in**
 - Use the subject line: **[SECURITY] Vulnerability Report**
 - Include as much detail as possible:
   - Steps to reproduce
