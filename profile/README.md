@@ -2,7 +2,7 @@
 
 **Website:** https://navadrishti.in  
 **Based in:** India  
-**Contact:** contactus.navdrishti@gmail.com  
+**Contact:** connect@navadrishti.in
 
 ---
 
